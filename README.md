@@ -6,7 +6,7 @@
 ### Website Preview
 <p align="center"> 
   <kbd>
-    <a href="https://cute-salamander-1d95fa.netlify.app/" target="_blank"><img src="examples/preview.JPG">
+    <a href="https://cute-salamander-1d95fa.netlify.app/" target="_blank"> click here <img src="examples/preview.JPG">
   </a>
   </kbd>
 </p>
